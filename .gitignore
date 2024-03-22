@@ -1,0 +1,8 @@
+**/target
+**/*.py
+**/*.pyc
+Cargo.lock
+.DS_Store
+Thumbs
+No Hold Buffer
+**/*.zip
